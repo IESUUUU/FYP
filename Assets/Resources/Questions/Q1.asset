@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b849481b2623f14d94ef40aa09f8e30, type: 3}
+  m_Name: Q1
+  m_EditorClassIdentifier: 
+  info: A type of fracture in which the bone has been crushed, or broken into several
+    pieces, is called a_______.
+  answers:
+  - _info: Spiral fracture
+    _isCorrect: 0
+  - _info: Displaced fracture
+    _isCorrect: 0
+  - _info: Comminuted fracture
+    _isCorrect: 1
+  - _info: Oblique fracture
+    _isCorrect: 0
+  _useTimer: 0
+  _timer: 0
+  _answerType: 0
+  _addScore: 1
+  _zero: 0
+  _explanation: 'Answer: <b><u>Comminuted fracture</u></b><br><br>Displaced fracture
+    is focusing on the bone alignment, even though there is possibility that comminuted
+    fracture to be occurred in non-align way (displaced comminuted fracture). '

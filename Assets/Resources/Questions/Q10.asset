@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b849481b2623f14d94ef40aa09f8e30, type: 3}
+  m_Name: Q10
+  m_EditorClassIdentifier: 
+  info: What is the most common cause of femoral shaft fracture in older adults?
+  answers:
+  - _info: Sports injuries
+    _isCorrect: 0
+  - _info: Motor vehicle accidents
+    _isCorrect: 0
+  - _info: Gunshot wounds
+    _isCorrect: 0
+  - _info: Falls
+    _isCorrect: 1
+  _useTimer: 0
+  _timer: 0
+  _answerType: 0
+  _addScore: 1
+  _zero: 0
+  _explanation: 'Answer: <b><u>Falls</u></b> <br><br>In older adults, falls are the
+    most common cause of femoral shaft fractures. This is due to age-related changes
+    in bone density and an increased risk of falls.'

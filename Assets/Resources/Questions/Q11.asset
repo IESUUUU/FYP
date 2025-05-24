@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b849481b2623f14d94ef40aa09f8e30, type: 3}
+  m_Name: Q11
+  m_EditorClassIdentifier: 
+  info: What is the primary method for diagnosing a femoral shaft fracture?
+  answers:
+  - _info: X-ray
+    _isCorrect: 1
+  - _info: CT scan
+    _isCorrect: 0
+  - _info: MRI
+    _isCorrect: 0
+  - _info: Ultrasound
+    _isCorrect: 0
+  _useTimer: 0
+  _timer: 0
+  _answerType: 0
+  _addScore: 1
+  _zero: 0
+  _explanation: 'Answer: <b><u>X-ray</u></b> <br><br>X-ray is the primary method
+    for diagnosing a femoral shaft fracture. It can show the location and extent
+    of the fracture, as well as any displacement or alignment issues. Other imaging
+    tests, such as CT or MRI, may be used to provide additional information.'

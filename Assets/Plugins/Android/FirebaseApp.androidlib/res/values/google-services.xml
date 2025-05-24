@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://finalyearproject-b7348-default-rtdb.firebaseio.com/</string>
+  <string name="gcm_defaultSenderId" translatable="false">466318103086</string>
+  <string name="google_storage_bucket" translatable="false">finalyearproject-b7348.appspot.com</string>
+  <string name="project_id" translatable="false">finalyearproject-b7348</string>
+  <string name="google_api_key" translatable="false">AIzaSyCVBoIxiZN1tDeASdcvfC14tCty1rAH7bA</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCVBoIxiZN1tDeASdcvfC14tCty1rAH7bA</string>
+  <string name="google_app_id" translatable="false">1:466318103086:android:77f7baebec8efbcc99c5bf</string>
+  <string name="default_web_client_id" translatable="false">466318103086-l759e9hjrc5gbuvgl4554o9um00t5h2b.apps.googleusercontent.com</string>
+</resources>

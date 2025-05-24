@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b849481b2623f14d94ef40aa09f8e30, type: 3}
+  m_Name: Q3
+  m_EditorClassIdentifier: 
+  info: Who are in the high risk to have a fracture? (Multiple Answer)
+  answers:
+  - _info: Smoker
+    _isCorrect: 1
+  - _info: Elderly with low-energy falls
+    _isCorrect: 1
+  - _info: Young men with low-energy trauma
+    _isCorrect: 0
+  - _info: Young men with high-energy trauma
+    _isCorrect: 1
+  _useTimer: 0
+  _timer: 0
+  _answerType: 0
+  _addScore: 1
+  _zero: 0
+  _explanation: Bone fractures usually occurred on whom with lower bone mass and
+    bone mineral density (BMD). Besides, high-energy trauma caused by accidents may
+    also consist of a higher risk to get a bone fracture.<br>Hence, only "Young men
+    with low-energy trauma" <b><u>NOT</u></b> the answer.

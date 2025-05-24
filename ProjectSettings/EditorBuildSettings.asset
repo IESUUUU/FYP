@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScreen.unity
+    guid: 63e5f3b36b02c2d4ea092778a711b235
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: efdfc851d9f65dd45af2816a714b23d9
+  - enabled: 0
+    path: Assets/Scenes/IntactBoneScene.unity
+    guid: 40e0fca34b8626c4994b0ba937024c13
+  - enabled: 0
+    path: Assets/Scenes/NonDisplaceObliqueBoneScene.unity
+    guid: 434459b071ab8804e917fd777d525481
+  - enabled: 0
+    path: Assets/Scenes/QuizScene.unity
+    guid: 1394fde384824ac4c9ab70645bda0eee
+  - enabled: 0
+    path: Assets/Scenes/DisplaceObliqueBoneScene.unity
+    guid: 0e066395f473ee64080d2f3bc7f5a4be
+  - enabled: 0
+    path: Assets/Scenes/Comminuted.unity
+    guid: 3f015734dfa0c8846b49f3ab4b3f6e2e
+  - enabled: 0
+    path: Assets/Scenes/Spiral.unity
+    guid: f262962bcb492874dabab4b55b60430d
+  - enabled: 0
+    path: Assets/Scenes/Transverse.unity
+    guid: 234e25cf40e31f14caa55e776ffa1662
+  - enabled: 0
+    path: Assets/Scenes/QuizQuestions.unity
+    guid: d3f1da828bb6de84ab0bc8ed4c732e54
+  - enabled: 0
+    path: Assets/Scenes/VideoScene.unity
+    guid: 46899381cc204e44d99cad89b27e7881
+  - enabled: 0
+    path: Assets/Scenes/GeneralScene.unity
+    guid: 3e3d50f9e28e5d74683b416eadd9aadf
+  - enabled: 1
+    path: Assets/Scenes/ARScene.unity
+    guid: 2544e2b8a46dfcb448c36b6eb1cc4724
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: ff29ace167353a94bb6176c67704e9ab,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 6713fdc7ef743614585fd66bf1605ccf,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4f2de15eefc270b4baab4700b1b62ce1,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 0b9ceecb6325add4287ce3f7ce4cd334,
+      type: 2}
